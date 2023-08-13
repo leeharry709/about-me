@@ -8,7 +8,7 @@
   <p align="center">Driving innovation with big data to bridge the gap between business and technology</p>
 </h6>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <img src="https://raw.githubusercontent.com/leeharry709/portfolio_v2/main/20230529_183929.jpg" width="30%" align="left" hspace="10" vspace="10">
 
