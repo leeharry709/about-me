@@ -1,5 +1,11 @@
 <h4>
-  <p align="center">ABOUT ME &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EXPERIENCE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SKILLS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PORTFOLIO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RESUME &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CONTACT</p>
+  <p align="center">
+    ABOUT ME &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    EXPERIENCE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    SKILLS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    PORTFOLIO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <a href=https://docs.google.com/viewer?url=https://raw.githubusercontent.com/leeharry709/resume/main/Harold_Lee_Resume_2023.pdf>RESUME</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    CONTACT</p>
 </h4>
 
 <center><img src="https://raw.githubusercontent.com/leeharry709/portfolio_v2/main/center%20image.jpg"></center>
