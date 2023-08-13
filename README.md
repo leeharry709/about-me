@@ -4,18 +4,16 @@
 
 <center><img src="https://raw.githubusercontent.com/leeharry709/portfolio_v2/main/center%20image.jpg"></center>
 
-<h6>
-  <p align="center">Driving innovation with big data to bridge the gap between business and technology</p>
-</h6>
+<p align="center">Driving innovation with big data to bridge the gap between business and technology</p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <img src="https://raw.githubusercontent.com/leeharry709/portfolio_v2/main/20230529_183929.jpg" width="30%" align="left" hspace="10" vspace="10">
+<br>
+Hi, my name is Harry! I'm currently a Product Data Engineer II at Expedia Group after being being promoted twice from a Data Analyst and Senior Business Intelligence Analyst, continuing to explore the boundless potential of big data and analytics. Throughout my career, I've experienced being a part of the full data life cycle, performing ETL on raw data and applying business logic for production-ready views using SQL, creating automated reports and dashboards with human-centered design using Python and Tableau, and presenting actionable data and statistics-driven insights to C-suite leaders.
 
-Hi, my name is Harry! I'm currently a data engineer, exploring the boundless potential of big data and analytics.
+&nbsp;&nbsp;
 
-My work primarily consists of building the analytical layer of the People Team's data platform, creating tables and views via SQL that are front-facing to any project that my team creates. I also assist in Tableau development and assessing and investgating potential advanced analytics projects as we expand our technical capabilities from data analytics to data science.
+I hold a Bachelor's in Pre-Medicine and a minor in Physics from Michigan State University. I taught myself computer science and python in my free time after being inspired by open source programs that regular people like me created to increase productivity in their life. After building simple productivity applications in python, I became fascinated with AI/ML and natural language processing (NLP). This passion and desire to solve business problems to boost productivity and efficiency through data drives me to continue learning and growing in and out of my work to make changes for good.
 
-I started my career journey as a Compensation Analyst in 2018 in Michigan, introducing analytics via excel, Tableau, and basic python, before moving to Seattle to pursue a larger career in Tech with Expedia Group in 2021. Within my short tenure at the company, I have taken on 2 promotions and have presented insights to various chief officers that directly report to the CEO. I have also expanded my technical library of skills to being the SQL expert of my team and studying advanced python libraries and packages such as pytorch, tensorflow, cv2, and streamlit.
-
-I strive to continue to grow into a data scientist as it is my dream job, delivering advanced and meaningful insights to those that have the power to make change for good.
+<br><br>&nbsp;&nbsp;&nbsp;&nbsp;-Harry Lee
