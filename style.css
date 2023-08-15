@@ -2,3 +2,7 @@
   font-family: centralesans;
   src: url("../about-me/centralesans.ttf") format('truetype');
 }
+
+body {
+    font-family: 'CustomFont', sans-serif;
+}
