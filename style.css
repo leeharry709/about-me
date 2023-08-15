@@ -1,8 +1,0 @@
-@font-face (
-  font-family: centralesans;
-  src: url("../about-me/blob/main/style.css") format('truetype');
-}
-
-body {
-    font-family: 'centralesans';
-}
